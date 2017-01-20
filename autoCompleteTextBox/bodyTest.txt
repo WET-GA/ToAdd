@@ -1,0 +1,9 @@
+<body onLoad="init();">
+<form name="test" id="test">
+<input type="text" name="text" autocomplete="off">
+</form>
+<div class="shadow" id="shadow">
+<div class="output" id="output">
+</div>
+</div>
+</body>
