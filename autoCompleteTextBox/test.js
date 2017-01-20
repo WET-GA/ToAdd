@@ -1,5 +1,8 @@
 <script type="text/javascript">
 <!--
+	
+	
+	// here the "suggestions" array is pre implemented, we have to populate it with our database's usernames
 	var suggestions = new Array("Boris", "Bäcker", "Peter", "Test","Bums");
 	var outp;
 	var oldins;
